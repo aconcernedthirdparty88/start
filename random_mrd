@@ -1,6 +1,5 @@
 		public void drm()
 		{
-			string lines [];
 			string file = "server.cs";
 			string lines [287, 288, 289, 290, 291];
 		}
